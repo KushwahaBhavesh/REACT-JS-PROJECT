@@ -1,0 +1,8 @@
+.container{
+  border: 2px solid black;
+  margin: 15px;
+  padding: 20px;
+  width: 25%;
+  max-width: 75%;
+  background:lavenderblush;
+}
