@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.root{
+  height: 100vh;
+  overflow: hidden;
+  background: linear-gradient(109.6deg, rgb(43, 1, 91) 13.4%, rgb(122, 2, 54) 100.2%);
+}
+
+.container{
+  border: transparent;
+  margin-top:5%;
+  
+} 
+input[type='text'],input[type='date']{
+  height: 2.3rem;
+  border-radius:15px;
+}
+
+.outer-border{
+  border:8px solid white ;
+  width: 50%;
+  padding: 3%;
+  border-radius: 50px;
+}
